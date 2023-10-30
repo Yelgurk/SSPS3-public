@@ -126,22 +126,6 @@ VS Code - because I had previous experience of working with it during the develo
 I had a deadline in front of me and I realized that planned a huge project for developing it from 0 to release, and 4 months is not enough. That's why I decided to develop in a modular and «multi-layer» way, i.e. according to the «DDD» principle. This allowed me to leave the «lower levels» of code independent, for porting, adding features and debugging in the future.
 Going to the software folder you will find the division of logic according to «DDD» from Domain to Application layer.
 
-#### 6.3. Software solutions. Models and services (code references)
-##### 6.3.1. Storing variable values. Bridge between ram and eeprom
-##### 6.3.2. Working with I/O
-##### 6.3.3. Date & time
-##### 6.3.4. Independent button logic
-##### 6.3.5. Business logic model - lambda task container
-##### 6.3.6. Variable storage serivce
-##### 6.3.7. Physical input and output service
-##### 6.3.8. Keyboard service based on the button model
-##### 6.3.9. RTC
-##### 6.3.10. Interaction with eeprom
-##### 6.3.11. UI, LVGL (1 of 25 controls design)
-##### 6.3.12. UI navigation service
-##### 6.3.13. Task manager based on interrupts
-##### 6.3.14. Business logic implementation - main.cpp and part of TaskService.cpp
-
 ## 7. Release
 In September 2023, the software for one of the series of manufactured equipment was fully completed. The PLC was flashed and successfully tested. October was allocated for writing documentation for the subsequent delivery of manufactured equipment with the new controller. As feedback is received, the reports in this readme will be updated.
 
