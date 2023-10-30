@@ -209,7 +209,6 @@ Assembly
 <p align="center">
     <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Engineering%20sample%20and%20final/ssps_es_4.jpg" width="40%">
     <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Engineering%20sample%20and%20final/ssps_es_5.jpg" width="40%">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Engineering%20sample%20and%20final/ssps_es_6.jpg" width="30%">
 </p>
 
 <p align="center">
