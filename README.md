@@ -27,7 +27,7 @@ The original plan was to design and build my own controller with a 4 inch displa
     - Purchasing a CNC router. Conversion to a plotter
     - Development of membrane keyboard production technology
     - First build with keyboard. First test
-    - Installation of the release candidate v1 on the equipment. First «field» tests
+    - Milestones to release candidate v1 on the equipment. First «field» tests
     - Time cost analysis of PCB assembly. Analysis of PNP machine offers
     - Homemade SMD component PNP machine. Assembly. First test
 6. SSPS3 Software
@@ -144,17 +144,92 @@ Assembly
     <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/plc_salutem_case_holder.png" width="450">
     <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/plc_salutem_case_cover.png" width="450">
 </p>
-<img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/VIMM_success.jpg">
 
 #### 5.5. Developing its own vertical injection molding machine
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=kosuv8pDtM8"><img src="https://img.youtube.com/vi/kosuv8pDtM8/0.jpg" alt="YouTube video" width="80%"></a>
+</div>
+
 #### 5.6. Bad idea? Expensive? Purchase and conversion of a vertical press for plastic injection molding
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=d58FZt9dFoM"><img src="https://img.youtube.com/vi/d58FZt9dFoM/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=hRRuVWcUvr0"><img src="https://img.youtube.com/vi/hRRuVWcUvr0/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=vWRh88ctS2Y"><img src="https://img.youtube.com/vi/vWRh88ctS2Y/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=EJf8Ut2OAh0"><img src="https://img.youtube.com/vi/EJf8Ut2OAh0/0.jpg" alt="YouTube video" width="40%"></a>
+</p>
+
 #### 5.7. Molding plastic parts. First assembly without keyboard
+<img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/VIMM_success.jpg">
+
 #### 5.8. Purchasing a CNC router. Conversion to a plotter
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/DIY%20plotter/blade_holder_case.png" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/DIY%20plotter/blade_holder_bracket.png" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/DIY%20plotter/blade_pusher.png" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/DIY%20plotter/blade_assembly.PNG" width="450">
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=GK3WdmIWEUw"><img src="https://img.youtube.com/vi/GK3WdmIWEUw/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=rLXt5yHCtIw"><img src="https://img.youtube.com/vi/rLXt5yHCtIw/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=Aa3JUrb-wec"><img src="https://img.youtube.com/vi/Aa3JUrb-wec/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=s9LD8PRHcKs"><img src="https://img.youtube.com/vi/s9LD8PRHcKs/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=NsPw-UJum3g"><img src="https://img.youtube.com/vi/NsPw-UJum3g/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=gBm4K6k2e2Q"><img src="https://img.youtube.com/vi/gBm4K6k2e2Q/0.jpg" alt="YouTube video" width="40%"></a>
+</p>
+
 #### 5.9. Development of membrane keyboard production technology
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20membrane%20keyboard/keyboard_pcb.png" width="%80">
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=QHYeXaWpzjc"><img src="https://img.youtube.com/vi/QHYeXaWpzjc/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=8YzL3hZF7nk"><img src="https://img.youtube.com/vi/8YzL3hZF7nk/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=x0SnF8Yu7dI"><img src="https://img.youtube.com/vi/x0SnF8Yu7dI/0.jpg" alt="YouTube video" width="40%"></a>
+</p>
+
 #### 5.10. First build with keyboard. First test
-#### 5.11. Installation of the release candidate v1 on the equipment. First «field» tests
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ze1laU3m5XU"><img src="https://img.youtube.com/vi/ze1laU3m5XU/0.jpg" alt="YouTube video" width="40%"></a>
+</p>
+
+SWYs3RbE2wU
+Redw7KNXDMc
+7FnvGc54QIc
+
+B1pWBA5PGBo
+FIn7ylNEf58
+Lc7RaMw1E1M
+3DTh6nJJigI
+vj34nDyH62Y
+sU9fEazrGZo
+
+#### 5.11. Milestones to release candidate v1 on the equipment. First «field» tests
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=SWYs3RbE2wU"><img src="https://img.youtube.com/vi/SWYs3RbE2wU/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=Redw7KNXDMc"><img src="https://img.youtube.com/vi/Redw7KNXDMc/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=7FnvGc54QIc"><img src="https://img.youtube.com/vi/7FnvGc54QIc/0.jpg" alt="YouTube video" width="40%"></a>
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Engineering%20sample%20and%20final/ssps_es_4.jpg" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Engineering%20sample%20and%20final/ssps_es_5.jpg" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Engineering%20sample%20and%20final/ssps_es_6.jpg" height="450">
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=B1pWBA5PGBo"><img src="https://img.youtube.com/vi/B1pWBA5PGBo/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=FIn7ylNEf58"><img src="https://img.youtube.com/vi/FIn7ylNEf58/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=Lc7RaMw1E1M"><img src="https://img.youtube.com/vi/Lc7RaMw1E1M/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=3DTh6nJJigI"><img src="https://img.youtube.com/vi/3DTh6nJJigI/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=vj34nDyH62Y"><img src="https://img.youtube.com/vi/vj34nDyH62Y/0.jpg" alt="YouTube video" width="40%"></a>
+  <a href="https://www.youtube.com/watch?v=sU9fEazrGZo"><img src="https://img.youtube.com/vi/sU9fEazrGZo/0.jpg" alt="YouTube video" width="40%"></a>
+</p>
+
 #### 5.12. Time cost analysis of PCB assembly. Analysis of PNP machine offers
+The PCB consists of 180 SMD components, some form factor 0805 and very dense arrangement on PCB. Together with the application of solder paste, the whole assembly process takes up to one and a half hours of time to produce a PLC board. For this reason it was decided to assemble a homemade pick and place machine. According to calculations, the preliminary productivity of the PNP is expected to be around 800 components per hour. Such probable productivity of the machine will allow to assemble up to 4 boards within an hour.
+
 #### 5.13. Homemade SMD component PNP machine. Assembly. First test
+
 
 ## 6. SSPS3 Software
 #### 6.1. Why C++, VS Code, Platformio/Arduino and ESP32
