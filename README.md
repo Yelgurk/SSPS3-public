@@ -79,9 +79,9 @@ As a result, I was faced with the task of realizing a product with the following
 - ultraviolet, dust and water resistance (outdoor conditions)
 - 24V supplying
 - load control via 8 relays
-- reading of digital signals for 8 channels (made with galvanic isolation, optocoupler. 3 isolated channels and 5 with common ground)
+- reading of digital signals for 8 channels
 - 4 analog inputs up to 28v
-- digital ips display with 320x480 resolution and 4 inch size
+- 16 symbols x 4 lines display 
 - 16 buttons
 - WiFi for OTA
 - RF channel for remote control (peripherals under development)
@@ -104,9 +104,48 @@ PLC enclosure. Not a simple question. To solve this problem I purchased a 3D pri
 The comments here would not be superfluous in places, but the media content more than covers the topics of the headlines
 
 #### 5.1. Purchasing devkit kits. Building the prototype. First tests
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/devkit_based_proto.jpg" height="500">
+</p>
+
 #### 5.2. Circuit drawing and PCB layout. PCB orders
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_circuit.png" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_preview_4layer.jpg" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_preview_front.jpg" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_preview_back.jpg" width="450">
+</p>
+
 #### 5.3. Assembly of homemade prototypes
+Design
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/one_of_proto_1.jpg" height="350">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/one_of_proto_2.jpg" height="350">
+</p>
+
+Orders
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/pcb_milestones_1.jpg" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/pcb_milestones_2.jpg" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/pcb_milestones_3.jpg" width="450">
+</p>
+
+Assembly
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_assembly_1.jpg" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_assembly_2.jpg" width="450">
+</p>
+
 #### 5.4. Modeling of 3D case, cover, holders for the designed PCB
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/plc_salutem_case_main.png" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/plc_salutem_case_main_rotated.png" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/plc_salutem_case_holder.png" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/plc_salutem_case_cover.png" width="450">
+</p>
+<img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/VIMM_success.jpg">
+
 #### 5.5. Developing its own vertical injection molding machine
 #### 5.6. Bad idea? Expensive? Purchase and conversion of a vertical press for plastic injection molding
 #### 5.7. Molding plastic parts. First assembly without keyboard
@@ -128,6 +167,21 @@ Going to the software folder you will find the division of logic according to «
 
 ## 7. Release
 In September 2023, the software for one of the series of manufactured equipment was fully completed. The PLC was flashed and successfully tested. October was allocated for writing documentation for the subsequent delivery of manufactured equipment with the new controller. As feedback is received, the reports in this readme will be updated.
+
+Final PLC+HMI parameters:
+- case size 130 x 110 x 38 mm
+- ultraviolet, dust and water resistance (will be clear in the near future in practice.)
+- 12-36V supplying
+- load control via 8 relays
+- reading of digital signals for 8 channels (made with galvanic isolation, optocoupler. 3 isolated channels and 5 with common ground)
+- 4 analog inputs up to 28V
+- digital ips display with 320x480 resolution and 4 inch size
+- 16 buttons
+- WiFi & Bluetooth built-in ESP32
+- NRF and JDY module support
+- connector for UHF antenna with build-in module
+- GPS/GPRS SIMCOM support with sim card slot
+- an additional i2c line has been taken out for the development of the extra shield
 
 ## 8. Technologies, frameworks, services used
 | Stage | Applied |
