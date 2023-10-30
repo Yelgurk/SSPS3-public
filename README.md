@@ -91,8 +91,15 @@ As a result, I was faced with the task of realizing a product with the following
 
 ## 4. Study of the subject area
 #### 4.1. Choice between «PLC - HMI» and «PLC + HMI»
-The market of controllers is diverse and when we talk about PLC, we mean a small computer, which is isolated from the user and solves the tasks set by the program in relation to the data coming from outside. When we talk about HMI, we mean small panels that only deal with inputs and outputs from the user information. From experience with controllers I can give as an example for "PLC + HMI" the 2 in 1 solution in picture 1 from Unitronics Jazz, and for "PLC - HMI" via modbus the solution in a combination of FX3U and OP320 in picture 2.
+The market of controllers is diverse and when we talk about PLC, we mean a small computer, which is isolated from the user and solves the tasks set by the program in relation to the data coming from outside. When we talk about HMI, we mean small panels that only deal with inputs and outputs from the user information. From experience with controllers I can give as an example for "PLC + HMI" the 2 in 1 solution in first picture like Unitronics Jazz, and for "PLC - HMI" via modbus the solution in a combination of FX3U and OP320 in second picture.
 I decided to take a more complicated path and develop a 2-in-1 controller, i.e. "PLC + HMI" and try to fit into the smallest possible dimensions.
+
+<table>
+  <tr>
+    <th width="40%"><img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/Unitronics_jazz.jpg"></th>
+    <th width="40%"><img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/fx3u_and_op320.jpg"></th>
+  </tr>
+</table>
 
 #### 4.2. Controller components
 For the realization of the conceived it was decided to stop on ESP32, because this module has support for wifi and bluetooth, high frequency of the processor, a good framework ESP-IDF and a perfectly remodeled version of ESP-IDF on Arduino Core. For RF channel support it was decided to leave the iron level support between NRF and JDY modules. The SIMCOM module is responsible for GPS/GPRS. For keyboard, relay control and digital signal reading it was decided to use PCF because of their availability in my country. DS3231 real time clock. For data storage is responsible eeprom in soic 8. The display is connected via 8 bit line, on the ILI driver.
@@ -106,15 +113,15 @@ The comments here would not be superfluous in places, but the media content more
 #### 5.1. Purchasing devkit kits. Building the prototype. First tests
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/devkit_based_proto.jpg" height="500">
+  <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/devkit_based_proto.jpg" height="450">
 </p>
 
 #### 5.2. Circuit drawing and PCB layout. PCB orders
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_circuit.png" width="450">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_preview_4layer.jpg" width="450">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_preview_front.jpg" width="450">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_preview_back.jpg" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_circuit.png" width="40%">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_preview_4layer.jpg" width="40%">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_preview_front.jpg" width="40%">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_preview_back.jpg" width="40%">
 </p>
 
 #### 5.3. Assembly of homemade prototypes
@@ -126,28 +133,28 @@ Design
 
 Orders
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/pcb_milestones_1.jpg" width="450">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/pcb_milestones_2.jpg" width="450">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/pcb_milestones_3.jpg" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/pcb_milestones_1.jpg" width="40%">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/pcb_milestones_2.jpg" width="40%">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/pcb_milestones_3.jpg" width="40%">
 </p>
 
 Assembly
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_assembly_1.jpg" width="450">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_assembly_2.jpg" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_assembly_1.jpg" width="40%">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20assembly/rc_pcb_assembly_2.jpg" width="40%">
 </p>
 
 #### 5.4. Modeling of 3D case, cover, holders for the designed PCB
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/plc_salutem_case_main.png" width="450">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/plc_salutem_case_main_rotated.png" width="450">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/plc_salutem_case_holder.png" width="450">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/plc_salutem_case_cover.png" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/plc_salutem_case_main.png" width="40%">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/plc_salutem_case_main_rotated.png" width="40%">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/plc_salutem_case_holder.png" width="40%">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/PLC%20case/plc_salutem_case_cover.png" width="40%">
 </p>
 
 #### 5.5. Developing its own vertical injection molding machine
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=kosuv8pDtM8"><img src="https://img.youtube.com/vi/kosuv8pDtM8/0.jpg" alt="YouTube video" width="80%"></a>
+  <a href="https://www.youtube.com/watch?v=kosuv8pDtM8"><img src="https://img.youtube.com/vi/kosuv8pDtM8/0.jpg" alt="YouTube video" width="40%"></a>
 </div>
 
 #### 5.6. Bad idea? Expensive? Purchase and conversion of a vertical press for plastic injection molding
@@ -163,10 +170,10 @@ Assembly
 
 #### 5.8. Purchasing a CNC router. Conversion to a plotter
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/DIY%20plotter/blade_holder_case.png" width="450">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/DIY%20plotter/blade_holder_bracket.png" width="450">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/DIY%20plotter/blade_pusher.png" width="450">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/DIY%20plotter/blade_assembly.PNG" width="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/DIY%20plotter/blade_holder_case.png" width="40%">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/DIY%20plotter/blade_holder_bracket.png" width="40%">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/DIY%20plotter/blade_pusher.png" width="40%">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/DIY%20plotter/blade_assembly.PNG" width="40%">
 </p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=GK3WdmIWEUw"><img src="https://img.youtube.com/vi/GK3WdmIWEUw/0.jpg" alt="YouTube video" width="40%"></a>
@@ -192,17 +199,6 @@ Assembly
   <a href="https://www.youtube.com/watch?v=ze1laU3m5XU"><img src="https://img.youtube.com/vi/ze1laU3m5XU/0.jpg" alt="YouTube video" width="40%"></a>
 </p>
 
-SWYs3RbE2wU
-Redw7KNXDMc
-7FnvGc54QIc
-
-B1pWBA5PGBo
-FIn7ylNEf58
-Lc7RaMw1E1M
-3DTh6nJJigI
-vj34nDyH62Y
-sU9fEazrGZo
-
 #### 5.11. Milestones to release candidate v1 on the equipment. First «field» tests
 <p align="center">
   <a href="https://www.youtube.com/watch?v=SWYs3RbE2wU"><img src="https://img.youtube.com/vi/SWYs3RbE2wU/0.jpg" alt="YouTube video" width="40%"></a>
@@ -211,9 +207,9 @@ sU9fEazrGZo
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Engineering%20sample%20and%20final/ssps_es_4.jpg" width="450">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Engineering%20sample%20and%20final/ssps_es_5.jpg" width="450">
-    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Engineering%20sample%20and%20final/ssps_es_6.jpg" height="450">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Engineering%20sample%20and%20final/ssps_es_4.jpg" width="40%">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Engineering%20sample%20and%20final/ssps_es_5.jpg" width="40%">
+    <img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Engineering%20sample%20and%20final/ssps_es_6.jpg" width="30%">
 </p>
 
 <p align="center">
@@ -229,7 +225,24 @@ sU9fEazrGZo
 The PCB consists of 180 SMD components, some form factor 0805 and very dense arrangement on PCB. Together with the application of solder paste, the whole assembly process takes up to one and a half hours of time to produce a PLC board. For this reason it was decided to assemble a homemade pick and place machine. According to calculations, the preliminary productivity of the PNP is expected to be around 800 components per hour. Such probable productivity of the machine will allow to assemble up to 4 boards within an hour.
 
 #### 5.13. Homemade SMD component PNP machine. Assembly. First test
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=S3Pohj1ywoo"><img src="https://img.youtube.com/vi/S3Pohj1ywoo/0.jpg" alt="YouTube video" width="40%"></a>
+</p>
 
+<p align="center">
+    <img src="https://github.com/Yelgurk/SSPS3-public/blob/main/Content/DIY%20PNP/diy_pnp_electronics.jpg" width="40%">
+</p>
+    
+<p align="center">
+    <img src="https://github.com/Yelgurk/SSPS3-public/blob/main/Content/DIY%20PNP/diy_pnp_parts_printed.jpg" width="40%">
+    <img src="https://github.com/Yelgurk/SSPS3-public/blob/main/Content/DIY%20PNP/diy_pnp_assembly_1.jpg" width="40%">
+    <img src="https://github.com/Yelgurk/SSPS3-public/blob/main/Content/DIY%20PNP/diy_pnp_assembly_2.jpg" width="40%">
+    <img src="https://github.com/Yelgurk/SSPS3-public/blob/main/Content/DIY%20PNP/diy_pnp_assembly_3.jpg" width="40%">
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JaPltSFoI6c"><img src="https://img.youtube.com/vi/JaPltSFoI6c/0.jpg" alt="YouTube video" width="40%"></a>
+</p>
 
 ## 6. SSPS3 Software
 #### 6.1. Why C++, VS Code, Platformio/Arduino and ESP32
@@ -265,7 +278,7 @@ Final PLC+HMI parameters:
 | Backend | C++, Arduino Core, DDD pattern |
 | Frontend | LVGL, LovyanGFX |
 | PCBs design | Easy EDA, Inkscape |
-| 3D models | Solidworks |
+| 3D models | Solidworks, Cura |
 | External design | Adobe Photoshop & Illustrator |
 | CNC assembly | Marlin for Ramps, OpenPNP, Pronterface |
 | PCB production | JLCPCB, PCB way |
