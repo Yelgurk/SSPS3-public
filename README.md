@@ -170,7 +170,7 @@ Release candidate version
 #### 5.5. Developing its own vertical injection molding machine
 <table align="center">
   <tr>
-    <th><img src=""https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="60"></th>
+    <th><img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="30"></th>
   </tr>
   <tr>
     <th>
@@ -185,7 +185,7 @@ Release candidate version
 #### 5.6. Bad idea? Expensive? Purchase and conversion of a vertical press for plastic injection molding
 <table>
   <tr>
-    <th><img src=""https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="60"></th>
+    <th><img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="30"></th>
   </tr>
   <tr>
     <th>
@@ -217,7 +217,7 @@ Release candidate version
 
 <table>
   <tr>
-    <th><img src=""https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="60"></th>
+    <th><img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="30"></th>
   </tr>
   <tr>
     <th>
@@ -239,7 +239,7 @@ Release candidate version
 
 <table>
   <tr>
-    <th><img src=""https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="60"></th>
+    <th><img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="30"></th>
   </tr>
   <tr>
     <th>
@@ -258,7 +258,7 @@ Release candidate version
 #### 5.10. First build with keyboard. First test
 <table align="center">
   <tr>
-    <th><img src=""https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="60"></th>
+    <th><img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="30"></th>
   </tr>
   <tr>
     <th>
@@ -273,7 +273,7 @@ Release candidate version
 #### 5.11. Milestones from first prototypes to release candidate on the equipment. First «field» tests
 <table>
   <tr>
-    <th><img src=""https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="60"></th>
+    <th><img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="30"></th>
   </tr>
   <tr>
     <th>
@@ -293,7 +293,7 @@ Release candidate version
 
 <table>
   <tr>
-    <th><img src=""https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="60"></th>
+    <th><img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="30"></th>
   </tr>
   <tr>
     <th>
@@ -316,7 +316,7 @@ The PCB consists of 180 SMD components, some form factor 0805 and very dense arr
 #### 5.13. Homemade SMD component PNP machine. Assembly. First test
 <table align="center">
   <tr>
-    <th><img src=""https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="60"></th>
+    <th><img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="30"></th>
   </tr>
   <tr>
     <th>
@@ -340,7 +340,7 @@ The PCB consists of 180 SMD components, some form factor 0805 and very dense arr
 
 <table align="center">
   <tr>
-    <th><img src=""https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="60"></th>
+    <th><img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="30"></th>
   </tr>
   <tr>
     <th>
@@ -368,7 +368,7 @@ In September 2023, the software for one of the series of manufactured equipment 
 
 <table align="center">
   <tr>
-    <th><img src=""https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="60"></th>
+    <th><img src="https://raw.githubusercontent.com/Yelgurk/SSPS3-public/main/Content/Extra/youtube_com_icon.png" height="30"></th>
   </tr>
   <tr>
     <th>
