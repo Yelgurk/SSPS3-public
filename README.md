@@ -101,7 +101,7 @@ As a result, I was faced with the task of realizing a product with the following
 ## 4. Study of the subject area
 <a name="p41"></a>
 #### 4.1. Choice between «PLC - HMI» and «PLC + HMI»
-The market of controllers is diverse and when we talk about PLC, we mean a small computer, which is isolated from the user and solves the tasks set by the program in relation to the data coming from outside. When we talk about HMI, we mean small panels that only deal with inputs and outputs from the user information. From experience with controllers I can give as an example for "PLC + HMI" the 2 in 1 solution in first picture like Unitronics Jazz, and for "PLC - HMI" via modbus the solution in a combination of FX3U and OP320 in second picture.
+The market of controllers is diverse and when we talk about PLC, we mean a small computer, which is isolated from the user and solves the tasks set by the program in relation to the data coming from outside. When we talk about HMI, we mean small panels that only deal with inputs and outputs from the user information. From experience with controllers I can give as an example for "PLC + HMI" the 2 in 1 solution in first picture like Unitronics Jazz, and for "PLC - HMI" via modbus the solution in a combination of FX3U and OP320 ([PLC - master and HMI - slave, old and unused project](https://github.com/Yelgurk/fx3u-m-op320-s-rs232)) in second picture.
 I decided to take a more complicated path and develop a 2-in-1 controller, i.e. "PLC + HMI" and try to fit into the smallest possible dimensions.
 
 <table>
